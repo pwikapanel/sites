@@ -9,7 +9,10 @@
 
 ### Default Pwika Sites
 
-These are the sites that are given at sign-up.
+Default sites for new Pwika users:
 
 - English version: [base.pwika.site](https://base.pwika.site)
 - French version: [fr.pwika.site](https://fr.pwika.site)
+
+---
+
