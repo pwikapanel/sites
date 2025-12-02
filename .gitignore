@@ -5,3 +5,5 @@ untracked/*
 "Icon\r"
 .swp
 .README.md.swp
+*.svg
+*.tmp
