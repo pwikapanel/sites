@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 1230">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 13.5px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #333;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-weight: 300;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: OpenSans-Light, 'Open Sans';
+      }
+
+      .cls-4 {
+        fill: #000;
+        font-family: OpenSans-LightItalic, 'Open Sans';
+        font-size: 11px;
+        font-style: italic;
+      }
+
+      .cls-6 {
+        fill: #1d8eff;
+        font-family: OpenSans-Regular, 'Open Sans';
+      }
+
+      .cls-7 {
+        fill: #f0f;
+      }
+
+      .cls-7, .cls-8 {
+        opacity: .3;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-width: 0px;
+      }
+
+      .cls-12 {
+        font-family: OpenSans-SemiBold, 'Open Sans';
+        font-weight: 600;
+      }
+
+      .cls-8 {
+        fill: #ff00c3;
+      }
+
+      .cls-13 {
+        fill: none;
+        stroke: #3e3e3e;
+      }
+
+      .cls-13, .cls-14 {
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-9, .cls-15 {
+        fill: #3e4c57;
+      }
+
+      .cls-10 {
+        fill: #eef2f8;
+      }
+
+      .cls-16 {
+        font-size: 28px;
+      }
+
+      .cls-16, .cls-14 {
+        fill: #fff;
+      }
+
+      .cls-16, .cls-15 {
+        font-family: BebasNeue-Regular, 'Bebas Neue';
+      }
+
+      .cls-14 {
+        stroke: #999;
+      }
+
+      .cls-11 {
+        fill: #ff000d;
+      }
+
+      .cls-15 {
+        font-size: 39px;
+      }
+    </style>
+  </defs>
+  <g id="Couleur_de_page" data-name="Couleur de page">
+    <rect class="cls-10" width="300" height="1230"/>
+  </g>
+  <g id="MB_autre" data-name="MB autre">
+    <text id="body_text" data-name="body text" class="cls-1" transform="translate(30 893.935)"><tspan class="cls-3"><tspan x="0" y="0">Il existe un outil pour vous aider à </tspan></tspan><tspan class="cls-3"><tspan x="0" y="24">convertir les dimensions de vos champs </tspan></tspan><tspan class="cls-3"><tspan x="0" y="48">dans Illustrator en format CSS :</tspan></tspan><tspan class="cls-6"><tspan x="0" y="76">files.svija.love/formulaire</tspan></tspan></text>
+    <path class="cls-13" d="M30,856h240H30Z"/>
+    <a xlink:href="https://files.svija.love/formulaire">
+      <rect id="mouse_link" data-name="mouse/link" class="cls-7" x="16" y="953.651" width="186" height="34.667"/>
+    </a>
+  </g>
+  <g id="MB_bouton_Envoi" data-name="MB bouton Envoi">
+    <g id="bouton">
+      <g id="down_boutonEnvoi_110_5_" data-name="down/boutonEnvoi/%110//5&amp;gt;">
+        <g id="bouton-2" data-name="bouton">
+          <g id="down_boutonEnvoi_t0" data-name="down/boutonEnvoi/t0">
+            <rect class="cls-9" x="43" y="746" width="185" height="40" rx="2" ry="2"/>
+            <text class="cls-16" transform="translate(101.845 776.067)"><tspan x="0" y="0">E N V O I</tspan></text>
+          </g>
+        </g>
+        <g id="bouton_actif" data-name="bouton actif">
+          <g id="down_boutonEnvoi_t0-2" data-name="down/boutonEnvoi/&amp;lt;/t0">
+            <rect class="cls-11" x="43" y="746" width="185" height="40" rx="2" ry="2"/>
+            <text class="cls-16" transform="translate(101.845 776.067)"><tspan x="0" y="0">E N V O I</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="mouse_boutonEnvoi_func" data-name="mouse/boutonEnvoi/func" class="cls-8" x="36.5" y="739" width="198" height="54"/>
+  </g>
+  <g id="MB_formulaire" data-name="MB formulaire">
+    <text id="form_header" data-name="form header" class="cls-4" transform="translate(15 361.353)"><tspan x="0" y="0">Formulaire de contact</tspan></text>
+    <rect id="_message_background" data-name="&amp;quot;message&amp;quot; background" class="cls-14" x="15" y="510" width="270" height="220" rx="2" ry="2"/>
+    <rect id="_business_background" data-name="&amp;quot;business&amp;quot; background" class="cls-14" x="15" y="465" width="270" height="30" rx="2" ry="2"/>
+    <rect id="_email_background" data-name="&amp;quot;email&amp;quot; background" class="cls-14" x="15" y="420" width="270" height="30" rx="2" ry="2"/>
+    <rect id="_name_background" data-name="&amp;quot;name&amp;quot; background" class="cls-14" x="15" y="375" width="270" height="30" rx="2" ry="2"/>
+  </g>
+  <g id="MB_haut_de_page" data-name="MB haut de page">
+    <text id="body_text-2" data-name="body text" class="cls-2" transform="translate(30 106.325)"><tspan class="cls-5"><tspan x="0" y="0">Lorsque l&apos;utilisateur clique sur « envoi », </tspan></tspan><tspan class="cls-12"><tspan x="0" y="24">le message s&apos;ouvrira dans leur </tspan></tspan><tspan class="cls-12" x="0" y="48">programme de messagerie habituel</tspan><tspan class="cls-5" x="232.149" y="48">, </tspan><tspan class="cls-5"><tspan x="0" y="72">prêt à partir.</tspan></tspan><tspan class="cls-5" x="0" y="106">Le bénéfice de ce système est que </tspan><tspan class="cls-12" x="211.626" y="106">vous </tspan><tspan class="cls-12"><tspan x="0" y="130">êtes sûr d&apos;avoir la bonne adresse mail </tspan></tspan><tspan class="cls-12" x="0" y="154">du utilisateur</tspan><tspan class="cls-5" x="87.617" y="154" xml:space="preserve"> dès la réception du mail.</tspan><tspan class="cls-5"><tspan x="0" y="188">Les textes par défaut sont définis dans </tspan></tspan><tspan class="cls-12" x="0" y="212">Svija Cloud › Sections</tspan><tspan class="cls-5" x="136.965" y="212">.</tspan></text>
+    <text id="headline" class="cls-15" transform="translate(28.5 69.053)"><tspan x="0" y="0">NOUS CONTACTER</tspan></text>
+    <a xlink:href="/cloud/svija/section/">
+      <rect id="mouse_link-2" data-name="mouse/link" class="cls-7" x="19.115" y="300" width="166.769" height="34.667"/>
+    </a>
+  </g>
+</svg>

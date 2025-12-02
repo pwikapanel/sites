@@ -1,0 +1,62 @@
+Ce dossier contient les polices utilisées par votre site web.
+
+Les polices web utilisées par votre site web se trouvent dans « WOFF Files ».
+
+::::::: INSTALLER LES POLICES FOURNIES PAR SVIJA :::::::
+
+1 ————— Installer les polices fournies (Mac)
+
+- Ouvrir Font Book (dans vos Applications)
+- Cmd-O pour ajouter des polices
+- Sélectionner toutes les polices dans votre projet Svija
+  (dans SYNC/SVIJA/Fonts/TTF & OTF)
+
+2 ————— Installer les polices fournies (PC)
+
+- Ouvrir le dossier des polices dans votre projet Svija
+  (dans SYNC\SVIJA\Fonts\TTF & OTF)
+- Tout sélectionner puis taper ctrl-C pour copier
+- Naviguer au dossier C:\Windows\Fonts
+- Ctrl-V pour tout coller
+- Redémarrer Adobe Illustrator
+
+:::::::::::::: UTILISER D'AUTRES POLICES :::::::::::::::
+
+1 ————— Où se trouve la police (Mac) ?
+
+- Ouvrir Font Book (dans vos Applications)
+- Cliquer avec le bouton droit sur la police
+- Sélectionner "Afficher dans le Finder..."
+
+1 ————— Où se trouve la police (PC) ?
+
+- Naviguer au dossier C:\Windows\Fonts
+- Rechercher le nom, ou tapez les premières lettres
+
+2 ————— Polices TTC
+
+Pour les polices TTF et OTF, passer à l'étape 3.
+
+Les polices TTC doivent être décompressées à :
+
+transfonter.org/ttc-unpack
+
+3 ———— Créer un fichier WOFF
+
+- Naviguer à convertio.co
+- Cliquer sur « Choose Files » et sélectionner les polices TTF/OTF
+- Cliquer sur « Convert all to ▼ » et sélectionner « Font › WOFF »
+- Cliquer sur « Convertir »
+- Déplacer les fichiers WOFF téléchargés dans le dossier "Fichiers WOFF"
+
+Remarque : il ne faut installer que les fichiers WOFF — pas de sous-dossiers ni d'autres fichiers.
+
+4 ———— Activer les polices dans Svija Cloud
+
+Une fois qu'une page a été visitée, les polices manquantes apparaîtront dans la liste des polices.
+
+- Accéder à Svija Cloud › Fonts
+- Remplir soit le champ « WOFF Filename », soit
+- Cocher « Google font »
+
+Pour plus d'informations, visiter tech.svija.love/fonts

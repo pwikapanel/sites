@@ -1,0 +1,1 @@
+Ce dossier contient des modèles utilisés pour créer de nouvelles pages et de nouveaux modules avec Svija Tools.

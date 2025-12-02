@@ -1,0 +1,22 @@
+Ce dossier contient trois images utilisées par votre site web. Vous pouvez les remplacer en tout ou en partie :
+
+——— capture.jpg · 300KB max ———
+
+L'image de prévisualisation que vous voyez lorsque vous collez un lien dans un message.
+
+——— apple-touch-icon.png · 180x180 px ———
+
+Icône de raccourci lorsque la page est enregistrée sur l'écran d'accueil d'un iPhone.
+
+——— favicon.ico ———
+
+Icône utilisée dans les onglets du navigateur.
+
+Cela doit être un fichier ".ico". Pour en créer un nouveau, allez sur
+
+    realfavicongenerator.net
+
+
+
+
+

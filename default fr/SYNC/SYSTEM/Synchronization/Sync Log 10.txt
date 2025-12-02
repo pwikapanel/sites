@@ -1,0 +1,12 @@
+10:58:07.637 VERBOSE BashExecuter.execute():74 - ♻️ BashExecuter 74: Process output: success
+10:58:07.644 VERBOSE BashExecuter.execute():79 - ♻️ BashExecuter 79: Process terminated with status: 0
+10:58:07.649 VERBOSE BashExecuter.execute():92 - ♻️⚠️ BashExecuter 92: end of termination observer
+10:58:07.652 VERBOSE BashExecuter.execute():99 - ♻️ BashExecuter 99: Process ending
+10:58:07.657 VERBOSE BashExecuter.execute():106 - ♻️ BashExecuter 106: successfully exiting from taskQueue?async
+10:58:12.410 VERBOSE BashExecuter.execute():53 - ♻️ BashExecuter 53: Process preparing: /Applications/Pwika Sync.app/Contents/Resources/rsync, basefr@fr.pwika.site::basefr/SYNC/, meAEzjJJmx0bMENI, success
+10:58:12.418 VERBOSE BashExecuter.execute():96 - ♻️ BashExecuter 96: Process starting
+10:58:12.792 VERBOSE BashExecuter.execute():74 - ♻️ BashExecuter 74: Process output: success
+10:58:12.796 VERBOSE BashExecuter.execute():79 - ♻️ BashExecuter 79: Process terminated with status: 0
+10:58:12.799 VERBOSE BashExecuter.execute():92 - ♻️⚠️ BashExecuter 92: end of termination observer
+10:58:12.802 VERBOSE BashExecuter.execute():99 - ♻️ BashExecuter 99: Process ending
+10:58:12.805 VERBOSE BashExecuter.execute():106 - ♻️ BashExecuter 106: successfully exiting from taskQueue?async

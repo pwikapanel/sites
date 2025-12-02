@@ -1,0 +1,20 @@
+Pour les scripts avancés, il peut être laborieux de les modifier dans la fenêtre Svija Cloud.
+
+Ce dossier peut être utilisé pour stocker les scripts utilisés par votre site web.
+
+• CSS
+• Javascript
+• HTML
+• Formulaires
+
+Dans tout champ dans Svija Cloud où vous pouvez rentrer un script, vous pouvez également renseigner un nom de fichier :
+
+    contact.js
+
+Vous pouvez également utiliser ce dossier pour du contenu d'accessibilité, par exemple :
+
+    accueil.html
+
+Il suffit de mettre le HTML que vous souhaitez utiliser.
+
+NE PAS inclure les balises <head> ou <body> !

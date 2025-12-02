@@ -1,0 +1,1 @@
+Ce dossier est utilisé sert à stocker les styles de texte et styles graphiques Illustrator utilisés par votre site web.

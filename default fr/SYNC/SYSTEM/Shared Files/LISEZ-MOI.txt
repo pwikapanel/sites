@@ -1,0 +1,9 @@
+Vous pouvez utiliser ce dossier pour partager des fichiers sur votre site web.
+
+Si vous mettez un fichier dans ce dossier, il sera disponible à l'adresse suivante :
+
+    (nom de votre site web)/files/nomdufichier
+
+Par exemple, si vous mettez « Presentation.pdf » dans ce dossier, il sera disponible à l'adresse suivante :
+
+    (nom de votre site web)/files/Presentation.pdf
