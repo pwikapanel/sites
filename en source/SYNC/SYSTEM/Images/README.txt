@@ -15,3 +15,15 @@ Icon used in the browser tabs.
 This must be a ".ico" file. To create a new one, go to
 
     realfavicongenerator.net
+
+——— cloud-logo.png ———
+
+You can change the colors and logo of Pwika Cloud.
+
+To change the logo, replace cloud-logo.png:
+
+    600x160px
+    PNG image
+
+The color are defined in "Site Settings" in Pwika Cloud.
+

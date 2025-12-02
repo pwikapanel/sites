@@ -8,13 +8,13 @@ The web fonts used by your website are located in “WOFF Files”.
 
 - Open Font Book (in your Applications)
 - Cmd-O to add fonts
-- Select all the fonts in your Svija project
-  (in SYNC/SVIJA/Fonts/TTF & OTF)
+- Select all the fonts in your Pwika project
+  (in SYNC/SYSTEM/Fonts/TTF & OTF)
 
 2 ————— Install the provided fonts (PC)
 
-Open the fonts folder in your Svija project
-(in SYNC\SVIJA\Fonts\TTF & OTF)
+Open the fonts folder in your Pwika project
+(in SYNC\SYSTEM\Fonts\TTF & OTF)
 
 - Select everything and press ctrl-C to copy
 - Navigate to the C:\Windows\Fonts folder
@@ -53,12 +53,12 @@ TTC fonts must be unpacked at:
 
 Note: you should only install WOFF files — no subfolders or other files.
 
-4 ———— Activate the fonts in Svija Cloud
+4 ———— Activate the fonts in Pwika Cloud
 
 Once a page has been visited, missing fonts will appear in the font list.
 
-- Go to Svija Cloud › Fonts
+- Go to Pwika Cloud › Fonts
 - Fill in either the “WOFF Filename” field, or
 - Check “Google font”
 
-For more information, visit tech.svija.com/fonts
+For more information, visit tech.pwika.com/fonts

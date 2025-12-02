@@ -16,7 +16,14 @@ Cela doit être un fichier ".ico". Pour en créer un nouveau, allez sur
 
     realfavicongenerator.net
 
+——— cloud-logo.png ———
 
+Vous pouvez changer les couleurs et le logo de Pwika Cloud.
 
+Pour changer le logo, remplacez cloud-logo.png :
 
+    600x160px
+    Image PNG
+
+Pour changer les couleurs, aller dans les "Paramètres du site" dans Pwika Cloud.
 

@@ -1,4 +1,4 @@
-For advanced scripts, it can be tedious to edit them in the Svija Cloud window.
+For advanced scripts, it can be tedious to edit them in the Pwika Cloud window.
 
 This folder can be used to store the scripts used by your website.
 
@@ -7,7 +7,7 @@ This folder can be used to store the scripts used by your website.
 • HTML
 • Forms
 
-In any field in Svija Cloud where you can enter a script, you can also enter a file name:
+In any field in Pwika Cloud where you can enter a script, you can also enter a file name:
 
     contact.js
 

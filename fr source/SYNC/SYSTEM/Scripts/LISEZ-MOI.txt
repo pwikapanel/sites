@@ -1,4 +1,4 @@
-Pour les scripts avancés, il peut être laborieux de les modifier dans la fenêtre Svija Cloud.
+Pour les scripts avancés, il peut être laborieux de les modifier dans la fenêtre Pwika Cloud.
 
 Ce dossier peut être utilisé pour stocker les scripts utilisés par votre site web.
 
@@ -7,7 +7,7 @@ Ce dossier peut être utilisé pour stocker les scripts utilisés par votre site
 • HTML
 • Formulaires
 
-Dans tout champ dans Svija Cloud où vous pouvez rentrer un script, vous pouvez également renseigner un nom de fichier :
+Dans tout champ dans Pwika Cloud où vous pouvez rentrer un script, vous pouvez également renseigner un nom de fichier :
 
     contact.js
 

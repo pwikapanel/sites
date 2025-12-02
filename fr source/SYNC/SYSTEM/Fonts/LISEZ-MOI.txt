@@ -8,13 +8,13 @@ Les polices web utilisées par votre site web se trouvent dans « WOFF Files ».
 
 - Ouvrir Font Book (dans vos Applications)
 - Cmd-O pour ajouter des polices
-- Sélectionner toutes les polices dans votre projet Svija
-  (dans SYNC/SVIJA/Fonts/TTF & OTF)
+- Sélectionner toutes les polices dans votre projet Pwika
+  (dans SYNC/SYSTEM/Fonts/TTF & OTF)
 
 2 ————— Installer les polices fournies (PC)
 
-- Ouvrir le dossier des polices dans votre projet Svija
-  (dans SYNC\SVIJA\Fonts\TTF & OTF)
+- Ouvrir le dossier des polices dans votre projet Pwika
+  (dans SYNC\SYSTEM\Fonts\TTF & OTF)
 - Tout sélectionner puis taper ctrl-C pour copier
 - Naviguer au dossier C:\Windows\Fonts
 - Ctrl-V pour tout coller
@@ -51,11 +51,11 @@ transfonter.org/ttc-unpack
 
 Remarque : il ne faut installer que les fichiers WOFF — pas de sous-dossiers ni d'autres fichiers.
 
-4 ———— Activer les polices dans Svija Cloud
+4 ———— Activer les polices dans Pwika Cloud
 
 Une fois qu'une page a été visitée, les polices manquantes apparaîtront dans la liste des polices.
 
-- Accéder à Svija Cloud › Fonts
+- Accéder à Pwika Cloud › Fonts
 - Remplir soit le champ « WOFF Filename », soit
 - Cocher « Google font »
 
