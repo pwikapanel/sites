@@ -11,5 +11,5 @@
 
 These are the sites that are given at sign-up.
 
-- English version: [base.svija.site](https://base.svija.site)
-- French version: [fr.svija.site](https://fr.svija.site)
+- English version: [base.pwika.site](https://base.pwika.site)
+- French version: [fr.pwika.site](https://fr.pwika.site)
