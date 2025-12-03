@@ -8,3 +8,4 @@ untracked/*
 *.svg
 *.tmp
 Sync Log *.txt
+*.txt.1
