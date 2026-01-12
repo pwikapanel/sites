@@ -1,7 +1,7 @@
 
 <!-- vim: set foldmethod=marker fmr=###,--- :-->
 
-*Updated 18 December, 2025*
+*Updated 12 January, 2026*
 
 ![Pwika: SVG-based websites built in Adobe Illustrator][logo]
 
@@ -11,7 +11,7 @@
 
 Default sites for new Pwika users:
 
-- English version: [base.pwika.site](https://base.pwika.site)
+- English version: [en.pwika.site](https://en.pwika.site)
 - French version: [fr.pwika.site](https://fr.pwika.site)
 
 ---
